@@ -1,3 +1,4 @@
 # Project exclude paths
 /module-dao/target/
 /module-util/target/
+/.idea
